@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Alx shell basics project
+A repository containing solutions for the alx shell basics project.
