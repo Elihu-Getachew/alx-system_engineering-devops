@@ -1,2 +1,2 @@
 #!/bin/bash 
-chown -R 501:20 ./.*; ls -la
+ ls -na
